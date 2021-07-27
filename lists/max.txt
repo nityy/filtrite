@@ -1,0 +1,58 @@
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/annoyances.txt
+
+https://filters.adtidy.org/extension/chromium/filters/2.txt
+https://filters.adtidy.org/extension/chromium/filters/3.txt
+https://filters.adtidy.org/extension/chromium/filters/4.txt
+https://filters.adtidy.org/extension/chromium/filters/14.txt
+https://filters.adtidy.org/extension/chromium/filters/11.txt
+
+https://easylist.to/easylist/easylist.txt
+https://easylist.to/easylist/easyprivacy.txt
+https://secure.fanboy.co.nz/fanboy-annoyance.txt
+https://easylist.to/easylist/fanboy-social.txt
+https://fanboy.co.nz/fanboy-problematic-sites.txt
+https://gitcdn.xyz/repo/NanoMeow/MDLMirror/master/hosts.txt
+https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt
+https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
+
+https://someonewhocares.org/hosts/hosts
+https://winhelp2002.mvps.org/hosts.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
+https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
+
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/sections/antiadblock.txt
+https://easylist-msie.adblockplus.org/antiadblockfilters.txt
+
+https://www.i-dont-care-about-cookies.eu/abp/
+https://curben.gitlab.io/malware-filter/urlhaus-filter-online.txt
+
+# Filters from old Bromite default, now removed from there
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-unbreak.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/coin-miners.txt
+https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
+
+https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
+
+# Third party fonts
+https://fanboy.co.nz/fanboy-antifonts.txt
+
+# Annoyances on Twitter
+https://raw.githubusercontent.com/robonxt/CleanYourTwitter/master/CleanYourTwitter.txt
+
+# from the dev of filtrite
+https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
+
+# OISD
+https://abp.oisd.nl
+https://abp.oisd.nl/extra
+
+# 1Hosts Pro
+https://adlist.vercel.app/Pro/domains.txt

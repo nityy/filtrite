@@ -39,7 +39,7 @@ jobs:
       run: echo "TAG_NAME=$(date +%F-%H-%M)" >> $GITHUB_ENV  
 
     - name: Release filter lists
-      uses: softprops/action-gh-release@v0.1.8
+      uses: softprops/action-gh-release@v1
       with:
         files: dist/*.dat
         name: Automatic list generation
